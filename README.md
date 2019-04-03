@@ -5,8 +5,8 @@ Anaylysis in this repository will be based on traditional methods such as slope-
 
 To-Do Administrative:
 
-- [ ] Determine Repository Licensing
-- [ ] Determine Programming Languages to be supported
+- [x] Determine Repository Licensing - ** 3-Clause BSD **
+- [x] Determine Programming Languages to be supported - ** Python and VBA **
 
 To-Do General:
 
